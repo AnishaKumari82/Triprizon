@@ -40,12 +40,6 @@ It offers users a visually engaging way to explore destinations, browse hotel re
 - [react-multi-carousel](https://www.npmjs.com/package/react-multi-carousel)
 - [next/image](https://nextjs.org/docs/pages/api-reference/components/image)
 
-![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.0+-blue?logo=tailwindcss)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
 ---
 
 ## 🚀 Getting Started
@@ -77,6 +71,12 @@ yarn dev
 You can check out the app at (https://triprizon-anisha-kumaris-projects.vercel.app/)- your feedback and contributions are welcome!
 
 Created with ❤️ by Anisha Kumari, as part of her frontend development journey using modern web tools.
+
+
+![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2.0+-blue?logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 
 
